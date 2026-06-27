@@ -102,7 +102,7 @@ export default function Contact() {
               </FadeUp>
 
               <FadeUp delay={0.2}>
-                <a href="https://wa.me/201000000000" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 p-5 bg-emerald-600 hover:bg-emerald-700 rounded-2xl text-white transition-all">
+                <a href="https://wa.me/201141122158" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 p-5 bg-emerald-600 hover:bg-emerald-700 rounded-2xl text-white transition-all">
                   <div className="w-10 h-10 bg-white/20 rounded-xl flex items-center justify-center">
                     <MessageCircle size={20} />
                   </div>
